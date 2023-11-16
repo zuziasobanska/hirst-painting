@@ -12,3 +12,4 @@ I created an object named `paintbrush` from the Turtle class, that moves across 
 Feel free to modify the script to experiment with different colors, dot sizes, or grid configurations. You can also adjust the speed of the drawing by changing the `paintbrush.speed()` parameter.
 
 https://www.artsy.net/artist-series/damien-hirst-spots 
+![image](https://github.com/zuziasobanska/hirst-painting/assets/141497230/1b44d114-0719-4794-80ad-b1d28b942235)
